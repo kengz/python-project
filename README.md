@@ -6,6 +6,13 @@ Python project template using Poetry as package manager.
 
 ## Installation
 
+Clone this template to your local folder, e.g. `my-proj`:
+
+```bash
+git clone https://github.com/kengz/python-project.git my-proj
+cd my-proj
+```
+
 [Install Poetry](https://python-poetry.org/docs/#installing-with-the-official-installer) for Python dependency management; then install this project and its dependencies:
 
 ```bash
