@@ -26,6 +26,8 @@ poetry install
 
 Use VSCode interactive Python with any script, e.g. [nb/dev.py](./nb/dev.py) by selecting the kernel in `./.venv` created by Poetry.
 
+To install new dependencies, use `poetry add <package>`
+
 ### Main script
 
 ```bash
